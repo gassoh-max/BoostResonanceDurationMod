@@ -1,5 +1,7 @@
 # BoostResonanceDurationMod
 
+This Code is only a example of the most used method and logic in UE4SS CPP, may not working correctly in production env.
+
 BoostResonanceDurationMod is a UE4SS mod for Vampire: The Masquerade � Bloodlines 2 that automatically restart  passive boost from ventrue clan.  
 
 UE4SS loader (download and installation instructions):  
